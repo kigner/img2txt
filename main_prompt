@@ -1,0 +1,3 @@
+用python写一个批量提取指定目录下的所有图片里的文本内容，然后存到与图片对应文件名的TXT文件中，使用tesseract库
+
+win10操作系统 ，Tesseract-OCR安装在C:\Program Files\Tesseract-OCR，中文语言包路径C:\Program Files\Tesseract-OCR\tessdata
